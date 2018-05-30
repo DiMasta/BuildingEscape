@@ -1,0 +1,7 @@
+# Unreal Genrated Files
+Binaries/
+Intermediate/
+
+# VS Generated Files
+.vs/
+*VC.db
