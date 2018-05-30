@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{200BEF94-4A99-9515-46B2-61B8F1BFC34F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BuildingEscape",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
